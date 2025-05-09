@@ -20,11 +20,6 @@ local Window = Rayfield:CreateWindow({
    Name = "car speed modifier",
    LoadingTitle = "Loading",
    LoadingSubtitle = "gg doxxed",
-   ConfigurationSaving = {
-      Enabled = true,
-      FolderName = nil,
-      FileName = "car speed modifier"
-   },
 })
 
 function speed()
